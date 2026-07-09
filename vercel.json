@@ -2,8 +2,15 @@
   "version": 2,
   "builds": [
     {
-      "src": "index.html",
+      "src": "**/*.html",
       "use": "@vercel/static"
+    }
+  ],
+  "cleanUrls": true,
+  "rewrites": [
+    {
+      "source": "/files/:path*",
+      "destination": "/html-drop/:path*"
     }
   ]
 }
