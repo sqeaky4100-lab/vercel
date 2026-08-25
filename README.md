@@ -14,3 +14,11 @@ You can open uploaded files with either of these URL patterns:
 Example:
 
 - `/files/Kayenta_Township_Audit_Knowledge_2022`
+
+## Current files in html-drop
+
+| File | URL |
+|------|-----|
+| Kayenta_Township_Audit_Knowledge_2022.html | `/files/Kayenta_Township_Audit_Knowledge_2022` |
+| Property_Briefings_ChatGPT_Index.html | `/files/Property_Briefings_ChatGPT_Index` |
+| Property_Briefings_Claude_Index.html | `/files/Property_Briefings_Claude_Index` |
